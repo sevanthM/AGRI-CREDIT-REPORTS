@@ -1,4 +1,8 @@
-# AGRI-CREDIT- B. Tech CSE Final Year Project   
-Under the domain of Web Development and it's Applications we made use of the Django framework to create a full-fledged working Farming website
+# AGRI-CREDIT- B. Tech CSE Final Year Project Reports
+Under the domain of Web Development and it's Applications made use of the Django framework to create a full-fledged working Farming website.
 
-Demonstration and executution plan presented through ppt as on 23-03-23 REVIEW-01 
+CONTENTS :
+AGRI CREDIT REVIEW 01 ppt demo -PIP103 -UP-II
+AGRI CREDIT REVIEW 01 report -PIP103 -UP-II
+AGRI CREDIT REVIEW 02 report -PIP103 -UP-II
+
